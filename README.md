@@ -157,6 +157,10 @@ Catalog: [question-forms.md](question-forms.md) — 10 forms keyed on what they 
 > **Note on step 4.** `Detect`（問題・前提・矛盾を検出する）は 15℃ の動作です。
 > Detect を完走させると温度が落ちます。壁打ちのセッションでは走らせないこと。
 
+## Essays
+
+- [A good question is a closed door](essay-a-good-question-is-a-closed-door.md) — 724 words. Sharpening a question closes the door; the skill is to break your own, on purpose, and hold the temperature while the other person gropes. Japanese original: `bonsai/KABEUCHI` → `essays/essay-bad-wallbounce-partner.md`
+
 ## Design Principle
 
 > **「偉人っぽく話す」のではなく、「その人なら何を aware し、そこから何を問うか」を学ぶ。**
