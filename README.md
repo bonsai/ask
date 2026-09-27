@@ -128,7 +128,7 @@ These are **behavioral patterns**, not claims that the historical thinkers liter
    問題・前提・曖昧さ・矛盾を検出する
 
 5. Choose
-   問い方の型を選ぶ
+   問い方の型を選ぶ → [question-forms.md](question-forms.md)
 
 6. Ask
    一つの問いを発する
@@ -142,6 +142,20 @@ These are **behavioral patterns**, not claims that the historical thinkers liter
 9. Ask again
    次の問いを形成する
 ```
+
+## Question Forms
+
+The `Choose` step picks from a catalog of forms. The form is **the shape of the sentence**, not who is speaking.
+
+```text
+Well-formed (偉人型)   答えが既に用意されている → 整形に二分かける
+Broken      (崩す型)   受け答えの型がない      → 崩れたぶんだけ中身が外へ出る
+```
+
+Catalog: [question-forms.md](question-forms.md) — 10 forms keyed on what they break, plus the anti-forms and a temperature gate.
+
+> **Note on step 4.** `Detect`（問題・前提・矛盾を検出する）は 15℃ の動作です。
+> Detect を完走させると温度が落ちます。壁打ちのセッションでは走らせないこと。
 
 ## Design Principle
 
